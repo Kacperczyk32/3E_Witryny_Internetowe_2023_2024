@@ -1,4 +1,4 @@
-Kacper Krzeszowski 3E Witryny internetowe
+ 3E Witryny internetowe
 
 zad 1
 1)Transitional DTD - przejściowa lub inaczej loose DTD  zawiera wszystko co w Strict DTD plus elementy i 
