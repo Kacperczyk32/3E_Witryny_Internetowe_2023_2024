@@ -1,0 +1,17 @@
+Znaczniki     Opis
+<ul>        Definuje nieuporzadkowana liste
+<ol>        Zanczniki ol reprezentuje uporzadkowana liste eleemntow na stronie interenetowej
+</body>     Wszystkie kody znajdujace sie w tym nzaczniku pojawiaja sie na stronie\
+</li>       Okresla element listy
+
+Posumowanie
+Zad 1
+A
+Zad 2
+C
+Zad 3
+B
+Zad 4
+A
+Zad 5
+A
