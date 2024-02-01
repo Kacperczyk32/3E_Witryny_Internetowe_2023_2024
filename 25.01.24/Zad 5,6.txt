@@ -1,0 +1,25 @@
+ZADANIE 5
+Nazwa atrybutu			Zastosowanie						Znacznik		
+type="submit"			Pole tworzące przycisk do wysyłania danych		<input>
+scrolling="no/yes/auto"		Ustawienie suwaków do przewijania			<frame>
+maxlength="x"			Maksymalna liczba znaków				<input>
+cellspacing="x"			Rozmiar odstępów między komórkami			<table>
+id="header"			Identyfikatoe elementu					<div>
+type="text"			Pole tekstowe						<input>
+____________________________________________________________________________________________________________________
+ZADANIE 6
+Nazwa wartości		Opis
+
+<input type="button">   definiuje klikalny przycisk
+_______________________________________________________________________
+<input type="color">    elementy typu color zapewniają element interfejsu użytkownika, 
+			który pozwala użytkownikowi określić kolor za pomocą wizualnego próbnika kolorów
+_______________________________________________________________________
+<input type="date">     definiuje selektor dat. Wynikowa wartość obejmuje rok, miesiąc i dzień.
+_______________________________________________________________________
+<input type="datetime">  elementy typu datetime-local tworzą kontrolki wejściowe, 
+			 które pozwalają użytkownikowi łatwo wprowadzić zarówno datę, 
+			 jak i godzinę, łącznie z rokiem
+_______________________________________________________________________
+<input type="month">	elementy typu miesiąc tworzą pola wejściowe, 
+			które pozwalają użytkownikowi wprowadzić miesiąc
